@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently focused on building strong foundations in React, with hands-on learning in:<br><br>⚛️ State management (Redux Toolkit, Zustand)<br><br>🔄 Data fetching & caching (RTK Query, TanStack Query)<br><br>🧪 Testing 
+I'm currently focused on building strong foundations in React, with hands-on learning in:<br><br>⚛️ State management (Redux Toolkit, Zustand)<br><br>🔄 Data fetching & caching (RTK Query, TanStack Query)<br><br>🧪 Testing (Vitest)
 
 
 # 💻 Tech Stack:
