@@ -9,6 +9,8 @@ I'm currently focused on building strong foundations in React, with hands-on lea
 ![](https://nirzak-streak-stats.vercel.app/?user=Kelsen23&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelsen23&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelsen23&label=Profile%20views&color=0e75b6&style=flat" alt="kelsen23" /> </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kelsen23&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
