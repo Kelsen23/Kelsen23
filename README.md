@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -19,7 +19,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -34,14 +39,9 @@
 <h3 align="center">📌 Currently Learning & Improving</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=backend" height="60" alt="backend skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
 </div>
 
 <p align="center">
-  🌱 Right now, I’m focused on strengthening my <b>backend development skills</b>, 
-  learning <b>PostgreSQL</b>, <b>Prisma</b>, and other advanced backend technologies.
+  🌱 Right now, I’m focused on learning <b>Next.js</b> with hands-on expirience
 </p>
