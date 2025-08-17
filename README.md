@@ -43,5 +43,5 @@
 </div>
 
 <p align="center">
-  🌱 Right now, I’m focused on learning <b>Next.js</b> with hands-on expirience
+  🌱 Right now, I’m focused on learning <b>Next.js</b> and <b>OAuth</b> with hands-on experience
 </p>
