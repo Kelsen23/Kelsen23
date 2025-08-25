@@ -57,10 +57,6 @@
   <img src="https://streak-stats.demolab.com?user=Kelsen23&theme=dracula&hide_border=false" height="160" />
 </div>  
 
----
-
-### 🏆 GitHub Achievements  
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Kelsen23&theme=dracula&margin-w=8&margin-h=8&no-frame=true&row=1" height="120" />
 </div>
