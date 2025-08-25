@@ -60,5 +60,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Kelsen23&theme=dracula&margin-w=8&margin-h=8&no-frame=true&row=1" height="120" />
 </div>
-
----
